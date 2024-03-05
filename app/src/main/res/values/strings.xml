@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">BAKANIT0</string>
+    <string name="copyright">©Bakanito - 2023</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="movies">Películas</string>
+    <string name="dogs">Perros</string>
+    <string-array name="dog_breeds">Razas de perro
+        <item name="affenpinscher" type="string">Affenpinscher</item>
+        <item name="african" type="string">African</item>
+        <item name="airedale" type="string">Airedale</item>
+        <item name="akita" type="string">Akita</item>
+        <item name="appenzeller" type="string">Appenzeller</item>
+        <item name="australian_kelpie" type="string">Australian Kelpie</item>
+        <item name="australian_shepherd" type="string">Australian Shepherd</item>
+        <item name="bakharwal_indian" type="string">Bakharwal Indian</item>
+        <item name="basenji" type="string">Basenji</item>
+        <item name="beagle" type="string">Beagle</item>
+        <item name="bluetick" type="string">Bluetick</item>
+        <item name="borzoi" type="string">Borzoi</item>
+        <item name="bouvier" type="string">Bouvier</item>
+        <item name="boxer" type="string">Boxer</item>
+        <item name="brabancon" type="string">Brabancon</item>
+        <item name="briard" type="string">Briard</item>
+        <item name="buhund_norwegian" type="string">Buhund Norwegian</item>
+        <item name="bulldog_boston" type="string">Bulldog Boston</item>
+        <item name="bulldog_english" type="string">Bulldog English</item>
+        <item name="bulldog_french" type="string">Bulldog French</item>
+        <item name="bullterrier_staffordshire" type="string">Bullterrier Staffordshire</item>
+        <item name="cattledog_australian" type="string">Cattledog Australian</item>
+        <item name="cavapoo" type="string">Cavapoo</item>
+        <item name="chihuahua" type="string">Chihuahua</item>
+        <item name="chippiparai_indian" type="string">Chippiparai Indian</item>
+        <item name="chow" type="string">Chow</item>
+        <item name="clumber" type="string">Clumber</item>
+        <item name="cockapoo" type="string">Cockapoo</item>
+        <item name="collie_border" type="string">Collie Border</item>
+        <item name="coonhound" type="string">Coonhound</item>
+        <item name="corgi_cardigan" type="string">Corgi Cardigan</item>
+        <item name="cotondetulear" type="string">Cotondetulear</item>
+        <item name="dachshund" type="string">Cachshund</item>
+        <item name="dalmatian" type="string">Dalmatian</item>
+        <item name="dane_great" type="string">Dane Great</item>
+        <item name="deerhound_scottish" type="string">Deerhound Scottish</item>
+        <item name="dhole" type="string">Dhole</item>
+        <item name="dingo" type="string">Dingo</item>
+        <item name="doberman" type="string">Doberman</item>
+        <item name="elkhound_norwegian" type="string">Elkhound Norwegian</item>
+        <item name="entlebucher" type="string">Entlebucher</item>
+        <item name="eskimo" type="string">Eskimo</item>
+        <item name="finnish_lapphund" type="string">Finnish Lapphund</item>
+        <item name="frise_bichon" type="string">Frise Bichon</item>
+        <item name="gaddi_indian" type="string">Gaddi Indian</item>
+        <item name="germanshepherd" type="string">Germanshepherd</item>
+        <item name="greyhound_indian" type="string">Greyhound Indian</item>
+        <item name="greyhound_italian" type="string">Greyhound Italian</item>
+        <item name="groenendael" type="string">Groenendael</item>
+        <item name="havanese" type="string">Havanese</item>
+        <item name="hound_afghan" type="string">Hound Afghan</item>
+        <item name="hound_basset" type="string">Hound Basset</item>
+        <item name="hound_blood" type="string">Hound Blood</item>
+        <item name="hound_english" type="string">Hound English</item>
+        <item name="hound_ibizan" type="string">Hound Ibizan</item>
+        <item name="hound_plott" type="string">Hound Plott</item>
+        <item name="hound_walker" type="string">Hound Walker</item>
+        <item name="husky" type="string">Husky</item>
+        <item name="keeshond" type="string">Keeshond</item>
+        <item name="kelpie" type="string">Kelpie</item>
+        <item name="kombai" type="string">Kombai</item>
+        <item name="komondor" type="string">Komondor</item>
+        <item name="kuvasz" type="string">Kuvasz</item>
+        <item name="labradoodle" type="string">Labradoodle</item>
+        <item name="labrador" type="string">Labrador</item>
+        <item name="leonberg" type="string">Leonberg</item>
+        <item name="lhasa" type="string">Lhasa</item>
+        <item name="malamute" type="string">Malamute</item>
+        <item name="malinois" type="string">Malinois</item>
+        <item name="maltese" type="string">Maltese</item>
+        <item name="mastiff_bull" type="string">Mastiff Bull </item>
+        <item name="mastiff_english" type="string">Mastiff English</item>
+        <item name="mastiff_indian" type="string">Mastiff Indian</item>
+        <item name="mastiff_tibetan" type="string">Mastiff Tibetan</item>
+        <item name="mexicanhairless" type="string">Mexicanhairless</item>
+        <item name="mix" type="string">Mix</item>
+        <item name="mountain_bernese" type="string">Mountain Bernese</item>
+        <item name="mountain_swiss" type="string">Mountain Swiss</item>
+        <item name="mudhol_indian" type="string">Mudhol Indian</item>
+        <item name="newfoundland" type="string">Newfoundland</item>
+        <item name="otterhound" type="string">Otterhound</item>
+        <item name="ovcharka_caucasian" type="string">Ovcharka Caucasian</item>
+        <item name="papillon" type="string">Papillon</item>
+        <item name="pariah_indian" type="string">Pariah Indian</item>
+        <item name="pekinese" type="string">Pekinese</item>
+        <item name="pembroke" type="string">Pembroke</item>
+        <item name="pinscher_miniature" type="string">Pinscher Miniature</item>
+        <item name="pitbull" type="string">Pitbull</item>
+        <item name="pointer_german" type="string">Pointer German</item>
+        <item name="pointer_germanlonghair" type="string">Pointer Germanlonghair</item>
+        <item name="pomeranian" type="string">Pomeranian</item>
+        <item name="poodle_medium" type="string">Poodle Medium</item>
+        <item name="poodle_miniature" type="string">Poodle Miniature</item>
+        <item name="poodle_standard" type="string">Poodle Standard</item>
+        <item name="poodle_toy" type="string">Poodle Toy</item>
+        <item name="pug" type="string">Pug</item>
+        <item name="puggle" type="string">Puggle</item>
+        <item name="pyrenees" type="string">Pyrenees</item>
+        <item name="rajapalayam_indian" type="string">Rajapalayam Indian</item>
+        <item name="redbone" type="string">Redbone</item>
+        <item name="retriever_chesapeake" type="string">Retriever Chesapeake</item>
+        <item name="retriever_curly" type="string">Retriever Curly</item>
+        <item name="retriever_flatcoated" type="string">Retriever Flatcoated</item>
+        <item name="retriever_golden" type="string">Retriever Golden</item>
+        <item name="ridgeback_rhodesian" type="string">Ridgeback Rhodesian</item>
+        <item name="rottweiler" type="string">Rottweiler</item>
+        <item name="saluki" type="string">Saluki</item>
+        <item name="samoyed" type="string">Samoyed</item>
+        <item name="schipperke" type="string">Schipperke</item>
+        <item name="schnauzer_giant" type="string">Schnauzer Giant</item>
+        <item name="schnauzer_miniature" type="string">Schnauzer Miniature</item>
+        <item name="segugio_italian" type="string">Segugio Italian</item>
+        <item name="setter_english" type="string">Setter English</item>
+        <item name="setter_gordon" type="string">Setter Gordon</item>
+        <item name="setter_irish" type="string">Setter Irish</item>
+        <item name="sharpei" type="string">Sharpei</item>
+        <item name="sheepdog_english" type="string">Sheepdog English</item>
+        <item name="sheepdog_indian" type="string">Sheepdog Indian</item>
+        <item name="sheepdog_shetland" type="string">Sheepdog Shetland</item>
+        <item name="shiba" type="string">Shiba</item>
+        <item name="shihtzu" type="string">Shihtzu</item>
+        <item name="spaniel_blenheim" type="string">Spaniel Blenheim</item>
+        <item name="spaniel_brittany" type="string">Spaniel Brittany</item>
+        <item name="spaniel_cocker" type="string">Spaniel Cocker</item>
+        <item name="spaniel_irish" type="string">Spaniel Irish</item>
+        <item name="spaniel_japanese" type="string">Spaniel Japanese</item>
+        <item name="spaniel_sussex" type="string">Spaniel Sussex</item>
+        <item name="spaniel_welsh" type="string">Spaniel Welsh</item>
+        <item name="spitz_indian" type="string">Spitz Indian</item>
+        <item name="spitz_japanese" type="string">Spitz Japanese</item>
+        <item name="springer_english" type="string">Springer English</item>
+        <item name="stbernard" type="string">Stbernard</item>
+        <item name="terrier_american" type="string">Terrier American</item>
+        <item name="terrier_australian" type="string">Terrier Australian</item>
+        <item name="terrier_bedlington" type="string">Terrier Bedlington</item>
+        <item name="terrier_border" type="string">Terrier Border</item>
+        <item name="terrier_cairn" type="string">Terrier Cairn</item>
+        <item name="terrier_dandie" type="string">Terrier Dandie</item>
+        <item name="terrier_fox" type="string">Terrier Fox</item>
+        <item name="terrier_irish" type="string">Terrier Irish</item>
+        <item name="terrier_kerryblue" type="string">Terrier Kerryblue</item>
+        <item name="terrier_lakeland" type="string">Terrier Lakeland</item>
+        <item name="terrier_norfolk" type="string">Terrier Norfolk</item>
+        <item name="terrier_norwich" type="string">Terrier Norwich</item>
+        <item name="terrier_patterdale" type="string">Terrier Patterdale</item>
+        <item name="terrier_russell" type="string">Terrier Russell</item>
+        <item name="terrier_scottish" type="string">Terrier Scottish</item>
+        <item name="terrier_sealyham" type="string">Terrier Sealyham</item>
+        <item name="terrier_silky" type="string">Terrier Silky</item>
+        <item name="terrier_tibetan" type="string">Terrier Tibetan</item>
+        <item name="terrier_toy" type="string">Terrier Toy</item>
+        <item name="terrier_welsh" type="string">Terrier Welsh</item>
+        <item name="terrier_westhighland" type="string">Terrier Westhighland</item>
+        <item name="terrier_wheaten" type="string">Terrier Wheaten</item>
+        <item name="terrier_yorkshire" type="string">Terrier Yorkshire</item>
+        <item name="tervuren" type="string">Tervuren</item>
+        <item name="vizsla" type="string">Vizsla</item>
+        <item name="waterdog_spanish" type="string">Waterdog Spanish</item>
+        <item name="weimaraner" type="string">Weimaraner</item>
+        <item name="whippet" type="string">Whippet</item>
+        <item name="wolfhound_irish" type="string">Wolfhound Irish</item>
+    </string-array>
+    <string name="pokeapi">https://pokeapi.co/api/v2/pokemon?offset=0ampersandlimit=1292</string>
+</resources>
